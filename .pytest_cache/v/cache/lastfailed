@@ -1,0 +1,6 @@
+{
+  "pytesting.py": true, 
+  "pytesting.py::test_shit": true, 
+  "pytesting.py::test_sum": true, 
+  "sub.py::test_sums": true
+}
