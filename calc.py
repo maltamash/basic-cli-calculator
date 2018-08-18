@@ -3,10 +3,10 @@
 Calculator command line interface tool that just adds shit and minuses it.
 
 Usage:
-  calc.py sum <x> <y>
-  calc.py minus <x> <y>
-  calc.py [--version]
-  calc.py [--help]
+  calc.py   sum <x> <y>
+  calc.py   minus <x> <y>
+  calc.py   [--version]
+  calc.py   [--help]
 
 Options:
   -h --help  Show this page

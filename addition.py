@@ -1,7 +1,7 @@
 from docopt import docopt
-import test
+import calc
 
-docstring = test.__doc__
+docstring = calc.__doc__
 arguments = docopt(docstring)
 
 
