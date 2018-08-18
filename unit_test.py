@@ -1,12 +1,8 @@
 import unittest
 from docopt import docopt
-import test
-import shlex
-import subprocess
-#import sys
-#from StringIO import StringIO
+import calc
 
-doc = test.__doc__
+doc = calc.__doc__
 
 class testingthecli(unittest.TestCase):
     def testfor_versioninput(self): #testing for input values
