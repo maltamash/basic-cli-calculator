@@ -1,5 +1,0 @@
-[
-  "unit_test.py::testingthecli::testfor_minusinput", 
-  "unit_test.py::testingthecli::testfor_suminput", 
-  "unit_test.py::testingthecli::testfor_versioninput"
-]
