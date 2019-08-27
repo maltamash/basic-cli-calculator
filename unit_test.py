@@ -1,8 +1,8 @@
 import unittest
 from docopt import docopt
-import calc
+import cli
 
-doc = calc.__doc__
+doc = cli.__doc__
 
 class testingthecli(unittest.TestCase):
     def testfor_versioninput(self): #testing for input values
